@@ -9,20 +9,23 @@ You can click the Preview link to take a look at your changes.
 --->
 
   Sou Analista de Infraestrutra com Experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2019 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas.
-  
+  - Estou Focada em Melhorar cada vez Mais Minhas **Soft skills e Hard Skills** 🚀
+
+
+ <div align="center">
+  <a href="https://github.com/LidiaGoncalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LidiaGoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidiaGoncalves&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
  </p>
 
 
-- Estou Focada em Melhorar cada vez Mais Minhas **Soft skills e Hard Skills** 🚀
 
 
-<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LidiaGoncalves&layout=compact)](https://github.com/lidiagoncalves/github-readme-stats)
-  
+
   ##
-
 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
