@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @LidiaGoncalves
+## Seja bem-vindo(a)
+
+- 👋 Hi, I’m @LidiaGoncalves e eu estou Cursando o 3º Semestre do curso de Analise e Desenvolvimento de Sistemas
+
+Social
 <div> 
  	 <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -8,8 +12,9 @@ LidiaGoncalves/LidiaGoncalves is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-  Sou Analista de Infraestrutra com Experiência em Sustentação de Ambientes Corporativos, Gestão de Servidores Linux, Virtualização, Storage, Firewalls, infraestrutura e monitoramento. Desde 2019 busco me aproximar cada vez mais de ambientes de desenvolvimento e tecnologias novas.
-  - Estou Focada em Melhorar cada vez Mais Minhas **Soft skills e Hard Skills** 🚀
+
+  
+  - Meu Repositorio pessoal** 🚀
 
 
  <div align="center">
@@ -37,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
+##  💻 Tecnologias e Ferramentas do meu Dia a Dia
 
 
   <h3> Cloud Computing </h3>
