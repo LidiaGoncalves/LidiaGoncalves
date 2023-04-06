@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-   ![gcp](https://img.shields.io/badge/google%20google-0089D6?style=for-the-badge&logo=googlee&logoColor=white)
+   ![gcp](https://img.shields.io/badge/google%20-0089D6?style=for-the-badge&logo=googlee&logoColor=white)
   
    <h3> Distribuições </h3>
 
