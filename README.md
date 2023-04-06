@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
   ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-330F62?style=for-the-badge&logo=Terraform&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-  ![Azure Devops](https://img.shields.io/badge/Azure_Devops-0089D6?style=for-the-badge&logo=AzureDevops&logoColor=white)
+  ![Pyspark](https://img.shields.io/badge/pyspark-0089D6?style=for-the-badge&logo=AzureDevops&logoColor=white)
   ![Git](https://img.shields.io/badge/Git_-330F63?style=for-the-badge&logo=git&logoColor=white)
   ![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
   ![Gitlab](https://img.shields.io/badge/GitLab_-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
