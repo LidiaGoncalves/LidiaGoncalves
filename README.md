@@ -8,9 +8,6 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
-</p>
 
 
 
