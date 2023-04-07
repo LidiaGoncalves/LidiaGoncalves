@@ -4,7 +4,7 @@
 
 ### "A Preparação Supera Talento " 😉
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiagooncalves//)](https://www.linkedin.com/in/karinnecristinapereira/)https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BG5CiJFkvSEKGSVd3nN5qdA%3D%3D
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiagooncalves//)](https://www.linkedin.com/in/lidiagooncalves/)
 
 
 
