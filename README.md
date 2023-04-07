@@ -46,7 +46,7 @@
 
 
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/karinne)](https://www.kaggle.com/******)
-[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://********/)](https://*********
+[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://********/)](https://
 
 <p align="center">
   <img src="https://github.com/*****/*******/blob/master/Banner.gif" alt="animated" />
