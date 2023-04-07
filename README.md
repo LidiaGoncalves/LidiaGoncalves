@@ -109,7 +109,7 @@
  
  
  
- <a href="https://github.com/karinnecristina">
+ <a href="https://github.com/LidiaGoncalves">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinnecristina&layout=compact&langs_count=8&theme=dark"/>
 </a>
  
