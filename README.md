@@ -108,6 +108,21 @@
  ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
  
  
+ 
+ <a href="https://github.com/karinnecristina">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinnecristina&layout=compact&langs_count=8&theme=dark"/>
+</a>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  <br>
 
 
