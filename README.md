@@ -100,6 +100,7 @@
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+ ![Shell](https://img.shields.io/badge/Shell -black?style=flat-square&logo=R)
  
  #### 🌱 Estou aprendendo:
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
