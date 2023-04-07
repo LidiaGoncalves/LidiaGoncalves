@@ -6,7 +6,7 @@
 
 [![Linkedin Badge]https://www.linkedin.com/in/lidia-gooncalves/
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiagooncalves//)]([https://www.linkedin.com/in/lidiagooncalves/](https://www.linkedin.com/in/lidia-gooncalves/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/lidiagooncalves//)](https://www.linkedin.com/in/lidia-gooncalves/)]([https://www.linkedin.com/in/lidiagooncalves/](https://www.linkedin.com/in/lidia-gooncalves/))
 
 
 
