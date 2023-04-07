@@ -6,6 +6,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiagooncalves//)](https://www.linkedin.com/in/lidiagooncalves/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiagooncalves//)]([https://www.linkedin.com/in/lidiagooncalves/](https://www.linkedin.com/in/lidia-gooncalves/))
+
+
+
+
+
+
+https://www.linkedin.com/in/lidia-gooncalves/
 
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@KarinneCristina)](https://medium.com/@KarinneCristina)
