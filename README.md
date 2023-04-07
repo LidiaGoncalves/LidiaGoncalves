@@ -1,19 +1,41 @@
-## Seja bem-vindo(a)
 
 
 
-### "A Preparação Supera Talento " 😉
+### "A Preparação Supera o Talento " 😉
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
+</p>
+
+
+
+
+
 
 
 <div> 
   
- 
+  
   
  <a href="https://www.linkedin.com/in/lidia-gooncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
   
   
+
   
+  
+  
+  
+   
 </div>
 
 
@@ -22,24 +44,32 @@
 
 
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@KarinneCristina)](https://medium.com/@KarinneCristina)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](karinnecristinapereira@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/karinne)](https://www.kaggle.com/karinne)
+
+[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/karinne)](https://www.kaggle.com/******)
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://karinneristina.glitch.me/)](https://karinneristina.glitch.me/)
 
 <p align="center">
-  <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
+  <img src="https://github.com/*****/*******/blob/master/Banner.gif" alt="animated" />
 </p>
+
+**Devops**
+
+
+
 
 **Engenheira de dados** com foco nos processos de coleta, estruturação e pré-processamento de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
 
-**Data engineer** with a focus on data collection, structuring and pre-processing processes, in addition to the development of analytical models (predictive and descriptive) and other processes that support the data squad in the evolution of products and services.
+
 
 <br>
 
  ## 🚀 **Linguagens e Ferramentas:**
 
  #### 💻 Uso diário:
+ 
+ 
+ ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
+ ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
