@@ -18,7 +18,6 @@
 **Devops** processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo de vida do desenvolvimento de um software, desde a criação do código  a implantação até as etapas de manutenção e atualização.
 
 
-**Engenheira de dados** com foco nos processos de coleta, estruturação e pré-processamento de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
 
 
 
