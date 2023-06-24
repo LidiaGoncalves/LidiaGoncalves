@@ -15,7 +15,7 @@
   <img src="https://github.com/*****/*******/blob/master/Banner.gif" alt="animated" />
 </p>
 
-**Devops** processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo de vida do desenvolvimento de um software, desde a criação do código  a implantação até as etapas de manutenção e atualização.
+**Devops** Processos, Ferramentas e Metodologias para Equilibrar as Necessidades ao longo de todo o Ciclo de Vida do Desenvolvimento de um Software, desde a Criação do Código  a Implantação até as Etapas de Manutenção e Atualização.
 
 
 
@@ -29,13 +29,27 @@
  
  
  ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
- ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ 
+
+
+ #### 📚 Tenho conhecimento básico:
+ ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+ 
+ 
+ #### 🌱 Estou aprendendo:
+
  
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
@@ -49,26 +63,6 @@
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
  ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
- ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
- ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
- 
- #### 📚 Tenho conhecimento básico:
- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
- ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
- 
- 
- #### 🌱 Estou aprendendo:
- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
- ![Kibana](https://img.shields.io/badge/Kibana-black?style=flat-square&logo=Kibana)
- ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
- ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
- 
- 
  
 
  
