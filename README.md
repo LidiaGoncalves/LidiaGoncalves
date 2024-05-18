@@ -34,7 +34,6 @@
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
 
 
