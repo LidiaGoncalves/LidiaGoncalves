@@ -35,6 +35,8 @@
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
+
 
  
 
@@ -67,16 +69,6 @@
  
  
  
- 
- <br>
-
-
-  ##
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
 
 
