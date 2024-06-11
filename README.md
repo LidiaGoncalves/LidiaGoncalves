@@ -11,11 +11,6 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/*****/*******/blob/master/Banner.gif" alt="animated" />
-</p>
-
-**Devops** Processos, Ferramentas e Metodologias para Equilibrar as Necessidades ao longo de todo o Ciclo de Vida do Desenvolvimento de um Software, desde a Criação do Código  a Implantação até as Etapas de Manutenção e Atualização.
 
 
 
