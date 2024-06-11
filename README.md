@@ -25,6 +25,7 @@
  
  ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
   ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+  ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Azure-)
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
