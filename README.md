@@ -16,9 +16,7 @@
 
 
 
-<br>
 
- ## 🚀 **Linguagens e Ferramentas:**
 
  #### 💻 Uso diário:
  
