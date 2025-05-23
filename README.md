@@ -30,7 +30,7 @@
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Github Actions](https://img.shields.io/badge/githubactions-black?style=plastic&logo=Githubactions)
 
  
 
