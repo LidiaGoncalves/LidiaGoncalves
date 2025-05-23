@@ -29,7 +29,7 @@
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
+ ![Chaos Mesh](https://img.shields.io/badge/-Chaosmesh-black?style=flat-square&logo=Chaosmesh)
  ![Github Actions](https://img.shields.io/badge/githubactions-black?style=plastic&logo=Githubactions)
 
  
